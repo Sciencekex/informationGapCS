@@ -1,0 +1,4 @@
+name: informationGapCS
+version: '1.0-SNAPSHOT'
+main: io.github.sciencekex.untitled.Untitled
+api-version: '1.21'
