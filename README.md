@@ -1,6 +1,15 @@
 https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylink
 
 暂时无法在飞书文档外展示此内容
+
+> 面试构成
+   >
+   > 1. 项目
+   > 2. 八股
+   > 3. 算法
+
+
+
 大学规划
 校招
 - 校园招聘，难度比社招（社会招聘）简单，要求更低，主要是企业面向应届生的招聘，大学生主要的就业机会。
