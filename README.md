@@ -2,11 +2,12 @@ https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylin
 
 暂时无法在飞书文档外展示此内容
 
-> 面试构成
-   >
-   > 1. 项目
-   > 2. 八股
-   > 3. 算法
+> 面试准备构成
+>
+> 1. 算法
+> 2. 项目
+> 3. 八股（+基础功）
+> 4. 商务日语
 
 
 
