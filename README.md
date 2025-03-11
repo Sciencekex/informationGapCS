@@ -1,5 +1,5 @@
 (【计算机信息差－飞书云文档】https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb
-作者：B站/牛客同名 [优雅_0v0] https://space.bilibili.com/437185092)
+转载自 作者：B站/牛客同名 [优雅_0v0] https://space.bilibili.com/437185092)
 
 
 
