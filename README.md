@@ -1,15 +1,7 @@
 https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylink
 
-暂时无法在飞书文档外展示此内容
-
-> 面试准备构成
+> 暂时无法在飞书文档外展示此内容
 >
-> 1. 算法
-> 2. 项目
-> 3. 八股（+基础功）
-> 4. 商务日语
-
-
 
 大学规划
 校招
@@ -207,3 +199,20 @@ https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylin
             - 马丁的12306（进阶项目，想了解的可以后台问我）
             - 自研的网关项目。
         - 算法的话，我是大二上开始刷的，大二寒假开始坚持每日一题。
+
+> 面试准备构成
+>
+> 1. 算法
+> 2. 项目
+> 3. 八股（+基础功）
+> 4. 商务日语
+
+项目清单List🫓:
+
+- [ ] 苍穹外卖
+- [ ] 黑马点评
+- [ ] 12306
+
+
+
+- [ ] 我的玩具 Pro
