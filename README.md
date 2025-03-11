@@ -1,10 +1,16 @@
-https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylink
+(【计算机信息差－飞书云文档】https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb
+作者：B站/牛客同名 [优雅_0v0] https://space.bilibili.com/437185092)
+
+
 
 > 暂时无法在飞书文档外展示此内容
 >
 
+
+
 大学规划
 校招
+
 - 校园招聘，难度比社招（社会招聘）简单，要求更低，主要是企业面向应届生的招聘，大学生主要的就业机会。
 - 优先级：暑期实习 > 秋招 > 秋招补录 > 春招 > 春招补录，反正越晚开优先级越低。因为现在秋招时间越来越提前，提前批好像已经几乎没有了，不做考虑，但如果有看到，可以去投
 大学时间线
@@ -212,6 +218,8 @@ https://yxldsebr80j.feishu.cn/wiki/KNh5wPCxGi1qpYkK4nGcojabnDb?from=from_copylin
 - [ ] 苍穹外卖
 - [ ] 黑马点评
 - [ ] 12306
+
+
 
 
 
